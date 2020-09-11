@@ -1,0 +1,300 @@
+{"name": "Äänekoski", "number": "992", "neighbors": ["Kannonkoski", "Konnevesi", "Laukaa", "Saarijärvi", "Uurainen", "Vesanto", "Viitasaari"]}
+{"name": "Ähtäri", "number": "989", "neighbors": ["Alajärvi", "Alavus", "Keuruu", "Multia", "Saarijärvi", "Soini", "Virrat"]}
+{"name": "Akaa", "number": "020", "neighbors": ["Hämeenkyrö", "Lempäälä", "Urjala", "Valkeakoski", "Vesilahti"]}
+{"name": "Alajärvi", "number": "005", "neighbors": ["Soini", "Ähtäri", "Alavus", "Kuortane", "Lapua", "Lappajärvi", "Vimpeli", "Perho", "Kyyjärvi"]}
+{"name": "Alavieska", "number": "009", "neighbors": ["Kalajoki", "Merijärvi", "Oulainen", "Ylivieska"]}
+{"name": "Alavus", "number": "010", "neighbors": ["Ähtäri", "Alajärvi", "Kuortane", "Seinäjoki", "Virrat"]}
+{"name": "Asikkala", "number": "016", "neighbors": ["Heinola", "Hollola", "Hämeenlinna", "Lahti", "Padasjoki", "Sysmä"]}
+{"name": "Askola", "number": "018", "neighbors": ["Myrskylä", "Mäntsälä", "Pornainen", "Porvoo", "Pukkila"]}
+{"name": "Aura", "number": "019", "neighbors": ["Lieto", "Masku", "Mynämäki", "Nousiainen", "Pöytyä", "Rusko", "Turku"]}
+{"name": "Brändö", "number": "035", "neighbors": ["Kumlinge", "Kustavi", "Parainen", "Sottunga"]}
+{"name": "Eckerö", "number": "043", "neighbors": ["Hammarland"]}
+{"name": "Enonkoski", "number": "046", "neighbors": ["Savonlinna"]}
+{"name": "Enontekiö", "number": "047", "neighbors": ["Inari", "Muonio", "Kittilä"]}
+{"name": "Espoo", "number": "049", "neighbors": ["Helsinki", "Vantaa", "Kauniainen", "Kirkkonummi", "Vihti", "Nurmijärvi"]}
+{"name": "Eura", "number": "050", "neighbors": ["Eurajoki", "Harjavalta", "Kokemäki", "Laitila", "Mynämäki", "Nakkila", "Pöytyä", "Rauma", "Säkylä"]}
+{"name": "Eurajoki", "number": "051", "neighbors": ["Eura", "Nakkila", "Pori", "Rauma"]}
+{"name": "Evijärvi", "number": "052", "neighbors": null}
+{"name": "Finström", "number": "060", "neighbors": ["Hammarland", "Jomala", "Geta", "Saltvik", "Sund"]}
+{"name": "Föglö", "number": "062", "neighbors": null}
+{"name": "Forssa", "number": "061", "neighbors": ["Jokioinen", "Tammela", "Humppila", "Urjala"]}
+{"name": "Geta", "number": "065", "neighbors": ["Finström", "Hammarland", "Saltvik"]}
+{"name": "Haapajärvi", "number": "069", "neighbors": ["Haapavesi", "Kärsämäki", "Nivala", "Pihtipudas", "Pyhäjärvi", "Reisjärvi", "Sievi"]}
+{"name": "Haapavesi", "number": "071", "neighbors": ["Haapajärvi", "Kärsämäki", "Nivala", "Oulainen", "Raahe", "Siikalatva", "Ylivieska"]}
+{"name": "Hailuoto", "number": "072", "neighbors": ["Lumijoki", "Oulu", "Siikajoki"]}
+{"name": "Halsua", "number": "074", "neighbors": null}
+{"name": "Hämeenkyrö", "number": "108", "neighbors": ["Ikaalinen", "Nokia", "Sastamala", "Ylöjärvi"]}
+{"name": "Hämeenlinna", "number": "109", "neighbors": ["Akaa", "Asikkala", "Hattula", "Hausjärvi", "Hollola", "Janakkala", "Kärkölä", "Loppi", "Padasjoki", "Pälkäne", "Tammela", "Urjala", "Valkeakoski"]}
+{"name": "Hamina", "number": "075", "neighbors": ["Kotka", "Kouvola", "Luumäki", "Miehikkälä", "Virolahti"]}
+{"name": "Hammarland", "number": "076", "neighbors": null}
+{"name": "Hankasalmi", "number": "077", "neighbors": null}
+{"name": "Hanko", "number": "078", "neighbors": ["Kemiönsaari", "Raasepori"]}
+{"name": "Harjavalta", "number": "079", "neighbors": ["Eura", "Kokemäki", "Nakkila", "Ulvila"]}
+{"name": "Hartola", "number": "081", "neighbors": null}
+{"name": "Hattula", "number": "082", "neighbors": ["Hämeenlinna", "Pälkäne", "Valkeakoski"]}
+{"name": "Hausjärvi", "number": "086", "neighbors": null}
+{"name": "Heinävesi", "number": "090", "neighbors": null}
+{"name": "Heinola", "number": "111", "neighbors": ["Asikkala", "Hartola", "Iitti", "Kouvola", "Lahti", "Mäntyharju", "Pertunmaa", "Sysmä"]}
+{"name": "Helsinki", "number": "091", "neighbors": ["Espoo", "Vantaa", "Sipoo"]}
+{"name": "Hirvensalmi", "number": "097", "neighbors": ["Joutsa", "Kangasniemi", "Mikkeli", "Mäntyharju", "Pertunmaa"]}
+{"name": "Hollola", "number": "098", "neighbors": ["Asikkala", "Hausjärvi", "Hämeenkyrö", "Lahti", "Kärkölä", "Orimattila"]}
+{"name": "Honkajoki", "number": "099", "neighbors": ["Isojoki", "Kankaanpää", "Karvia", "Kauhajoki", "Siikainen"]}
+{"name": "Huittinen", "number": "102", "neighbors": ["Kokemäki", "Loimaa", "Punkalaidun", "Sastamala", "Säkylä"]}
+{"name": "Humppila", "number": "103", "neighbors": ["Forssa", "Jokioinen", "Ypäjä", "Loimaa", "Punkalaidun", "Urjala"]}
+{"name": "Hyrynsalmi", "number": "105", "neighbors": ["Kuhmo", "Puolanka", "Ristijärvi", "Suomussalmi"]}
+{"name": "Hyvinkää", "number": "106", "neighbors": ["Riihimäki", "Hausjärvi", "Mäntsälä", "Tuusula", "Nurmijärvi", "Vihti", "Loppi"]}
+{"name": "Ii", "number": "139", "neighbors": ["Oulu", "Pudasjärvi", "Ranua", "Simo"]}
+{"name": "Iisalmi", "number": "140", "neighbors": ["Kiuruvesi", "Lapinlahti", "Kuopio", "Pielavesi", "Sonkajärvi", "Vieremä"]}
+{"name": "Iitti", "number": "142", "neighbors": ["Heinola", "Kouvola", "Lahti", "Lapinjärvi", "Orimattila"]}
+{"name": "Ikaalinen", "number": "143", "neighbors": ["Hämeenkyrö", "Jämijärvi", "Kankaanpää", "Parkano", "Sastamala", "Ylöjärvi"]}
+{"name": "Ilmajoki", "number": "145", "neighbors": ["Isokyrö", "Kurikka", "Laihia", "Seinäjoki"]}
+{"name": "Ilomantsi", "number": "146", "neighbors": ["Joensuu", "Lieksa"]}
+{"name": "Imatra", "number": "153", "neighbors": ["Lappeenranta", "Ruokolahti"]}
+{"name": "Inari", "number": "148", "neighbors": ["Enontekiö", "Kittilä", "Sodankylä", "Utsjoki"]}
+{"name": "Inkoo", "number": "149", "neighbors": ["Raasepori", "Lohja", "Siuntio", "Kirkkonummi"]}
+{"name": "Isojoki", "number": "151", "neighbors": ["Honkajoki", "Karijoki", "Kauhajoki", "Kristiinankaupunki", "Merikarvia", "Siikainen"]}
+{"name": "Isokyrö", "number": "152", "neighbors": ["Ilmajoki", "Laihia", "Vaasa", "Vöyri", "Kauhava", "Seinäjoki"]}
+{"name": "Jämijärvi", "number": "181", "neighbors": ["Ikaalinen", "Kankaanpää", "Parkano"]}
+{"name": "Jämsä", "number": "182", "neighbors": ["Juupajoki", "Jyväskylä", "Keuruu", "Kuhmoinen", "Luhanka", "Mänttä-Vilppula", "Orivesi", "Petäjävesi"]}
+{"name": "Janakkala", "number": "165", "neighbors": ["Hausjärvi", "Hämeenlinna", "Loppi", "Riihimäki"]}
+{"name": "Järvenpää", "number": "186", "neighbors": ["Mäntsälä", "Sipoo", "Tuusula"]}
+{"name": "Joensuu", "number": "167", "neighbors": ["Ilomantsi", "Kontiolahti", "Lieksa", "Liperi", "Rääkkylä", "Tohmajärvi"]}
+{"name": "Jokioinen", "number": "169", "neighbors": ["Forssa", "Tammela", "Somero", "Ypäjä", "Humppila"]}
+{"name": "Jomala", "number": "170", "neighbors": ["Finström", "Hammarland", "Lemland", "Lumparland", "Maarianhamina", "Sund"]}
+{"name": "Joroinen", "number": "171", "neighbors": ["Juva", "Pieksämäki", "Rantasalmi", "Leppävirta", "Varkaus"]}
+{"name": "Joutsa", "number": "172", "neighbors": ["Hartola", "Hirvensalmi", "Jyväskylä", "Kangasniemi", "Luhanka", "Pertunmaa", "Toivakka"]}
+{"name": "Juuka", "number": "176", "neighbors": ["Kuopio", "Kaavi", "Kontiolahti", "Lieksa", "Nurmes", "Polvijärvi", "Rautavaara"]}
+{"name": "Juupajoki", "number": "177", "neighbors": null}
+{"name": "Juva", "number": "178", "neighbors": ["Joroinen", "Mikkeli", "Pieksämäki", "Puumala", "Rantasalmi", "Sulkava"]}
+{"name": "Jyväskylä", "number": "179", "neighbors": ["Joutsa", "Toivakka", "Jämsä", "Luhanka", "Muurame", "Petäjävesi", "Laukaa", "Uurainen"]}
+{"name": "Kaarina", "number": "202", "neighbors": ["Lieto", "Parainen", "Paimio", "Sauvo", "Turku"]}
+{"name": "Kaavi", "number": "204", "neighbors": null}
+{"name": "Kajaani", "number": "205", "neighbors": ["Paltamo", "Pyhäntä", "Siikalatva", "Sonkajärvi", "Sotkamo", "Vaala", "Vieremä"]}
+{"name": "Kalajoki", "number": "208", "neighbors": ["Alavieska", "Kannus", "Kokkola", "Merijärvi", "Pyhäjoki", "Sievi", "Ylivieska"]}
+{"name": "Kangasala", "number": "211", "neighbors": ["Kuhmoinen", "Lempäälä", "Orivesi", "Padasjoki", "Pälkäne", "Tampere", "Valkeakoski"]}
+{"name": "Kangasniemi", "number": "213", "neighbors": null}
+{"name": "Kankaanpää", "number": "214", "neighbors": ["Honkajoki", "Ikaalinen", "Jämijärvi", "Karvia", "Parkano", "Pomarkku", "Pori", "Sastamala", "Siikainen"]}
+{"name": "Kannonkoski", "number": "216", "neighbors": null}
+{"name": "Kannus", "number": "217", "neighbors": ["Kalajoki", "Kokkola", "Sievi", "Toholampi"]}
+{"name": "Karijoki", "number": "218", "neighbors": null}
+{"name": "Karkkila", "number": "224", "neighbors": ["Lohja", "Loppi", "Tammela", "Vihti"]}
+{"name": "Kärkölä", "number": "316", "neighbors": null}
+{"name": "Kärsämäki", "number": "317", "neighbors": null}
+{"name": "Karstula", "number": "226", "neighbors": ["Kannonkoski", "Kivijärvi", "Kyyjärvi", "Saarijärvi", "Soini"]}
+{"name": "Karvia", "number": "230", "neighbors": ["Honkajoki", "Kankaanpää", "Kauhajoki", "Kurikka", "Parkano"]}
+{"name": "Kaskinen", "number": "231", "neighbors": ["Närpiö"]}
+{"name": "Kauhajoki", "number": "232", "neighbors": ["Honkajoki", "Isojoki", "Karijoki", "Karvia", "Kurikka", "Teuva"]}
+{"name": "Kauhava", "number": "233", "neighbors": ["Evijärvi", "Isokyrö", "Lappajärvi", "Lapua", "Pedersören kunta", "Seinäjoki", "Uusikaarlepyy", "Vöyri"]}
+{"name": "Kauniainen", "number": "235", "neighbors": ["Espoo"]}
+{"name": "Kaustinen", "number": "236", "neighbors": ["Halsua", "Kokkola", "Kruunupyy", "Veteli"]}
+{"name": "Keitele", "number": "239", "neighbors": ["Pielavesi", "Pihtipudas", "Tervo", "Vesanto", "Viitasaari"]}
+{"name": "Kemi", "number": "240", "neighbors": ["Keminmaa", "Simo", "Tornio"]}
+{"name": "Kemijärvi", "number": "320", "neighbors": ["Pelkosenniemi", "Salla", "Posio", "Rovaniemi"]}
+{"name": "Keminmaa", "number": "241", "neighbors": ["Kemi", "Simo", "Tervola", "Tornio"]}
+{"name": "Kemiönsaari", "number": "322", "neighbors": ["Salo", "Raasepori", "Luhanka", "Parainen", "Sauvo"]}
+{"name": "Kempele", "number": "244", "neighbors": ["Liminka", "Oulu", "Tyrnävä"]}
+{"name": "Kerava", "number": "245", "neighbors": ["Vantaa", "Tuusula", "Sipoo"]}
+{"name": "Keuruu", "number": "249", "neighbors": ["Jämsä", "Multia", "Mänttä-Vilppula", "Petäjävesi", "Virrat", "Ähtäri"]}
+{"name": "Kihniö", "number": "250", "neighbors": null}
+{"name": "Kinnula", "number": "256", "neighbors": null}
+{"name": "Kirkkonummi", "number": "257", "neighbors": ["Espoo", "Vihti", "Siuntio", "Inkoo"]}
+{"name": "Kitee", "number": "260", "neighbors": null}
+{"name": "Kittilä", "number": "261", "neighbors": null}
+{"name": "Kiuruvesi", "number": "263", "neighbors": null}
+{"name": "Kivijärvi", "number": "265", "neighbors": null}
+{"name": "Kökar", "number": "318", "neighbors": ["Föglö", "Parainen", "Sottunga"]}
+{"name": "Kokemäki", "number": "271", "neighbors": null}
+{"name": "Kokkola", "number": "272", "neighbors": ["Halsua", "Kalajoki", "Kannus", "Kaustinen", "Kruunupyy", "Lestijärvi", "Luoto", "Toholampi"]}
+{"name": "Kolari", "number": "273", "neighbors": ["Kittilä", "Muonio", "Pello", "Rovaniemi"]}
+{"name": "Konnevesi", "number": "275", "neighbors": ["Hankasalmi", "Laukaa", "Rautalampi", "Vesanto", "Äänekoski"]}
+{"name": "Kontiolahti", "number": "276", "neighbors": ["Joensuu", "Juuka", "Lieksa", "Liperi", "Polvijärvi"]}
+{"name": "Korsnäs", "number": "280", "neighbors": null}
+{"name": "Koski Tl", "number": "284", "neighbors": ["Loimaa", "Marttila", "Pöytyä", "Salo", "Somero", "Ypäjä"]}
+{"name": "Kotka", "number": "285", "neighbors": ["Hamina", "Kouvola", "Pyhtää"]}
+{"name": "Kouvola", "number": "286", "neighbors": ["Hamina", "Heinola", "Iitti", "Kotka", "Lapinjärvi", "Loviisa", "Luumäki", "Miehikkälä", "Mäntyharju", "Pyhtää", "Savitaipale"]}
+{"name": "Kristiinankaupunki", "number": "287", "neighbors": ["Isojoki", "Karijoki", "Merikarvia", "Närpiö", "Teuva"]}
+{"name": "Kruunupyy", "number": "288", "neighbors": ["Evijärvi", "Kaustinen", "Kokkola", "Luoto", "Pedersören kunta", "Veteli"]}
+{"name": "Kuhmo", "number": "290", "neighbors": ["Hyrynsalmi", "Lieksa", "Nurmes", "Ristijärvi", "Sotkamo", "Suomussalmi"]}
+{"name": "Kuhmoinen", "number": "291", "neighbors": null}
+{"name": "Kumlinge", "number": "295", "neighbors": null}
+{"name": "Kuopio", "number": "297", "neighbors": ["Lapinlahti", "Iisalmi", "Leppävirta", "Rautavaara", "Siilinjärvi", "Suonenjoki", "Tervo", "Pielavesi", "Kaavi", "Juuka", "Tuusniemi"]}
+{"name": "Kuortane", "number": "300", "neighbors": null}
+{"name": "Kurikka", "number": "301", "neighbors": ["Ilmajoki", "Karvia", "Kauhajoki", "Kihniö", "Laihia", "Maalahti", "Närpiö", "Parkano", "Seinäjoki", "Teuva"]}
+{"name": "Kustavi", "number": "304", "neighbors": ["Brändö", "Parainen", "Naantali", "Taivassalo", "Uusikaupunki"]}
+{"name": "Kuusamo", "number": "305", "neighbors": ["Posio", "Salla", "Suomussalmi", "Taivalkoski"]}
+{"name": "Kyyjärvi", "number": "312", "neighbors": null}
+{"name": "Lahti", "number": "398", "neighbors": ["Asikkala", "Heinola", "Hollola", "Iitti", "Orimattila"]}
+{"name": "Laihia", "number": "399", "neighbors": null}
+{"name": "Laitila", "number": "400", "neighbors": null}
+{"name": "Lapinjärvi", "number": "407", "neighbors": null}
+{"name": "Lapinlahti", "number": "402", "neighbors": ["Iisalmi", "Kuopio", "Rautavaara", "Siilinjärvi", "Sonkajärvi"]}
+{"name": "Lappajärvi", "number": "403", "neighbors": null}
+{"name": "Lappeenranta", "number": "405", "neighbors": ["Imatra", "Ruokolahti", "Lemi", "Luumäki", "Taipalsaari", "Miehikkälä"]}
+{"name": "Lapua", "number": "408", "neighbors": ["Alajärvi", "Kauhava", "Kuortane", "Lappajärvi", "Seinäjoki"]}
+{"name": "Laukaa", "number": "410", "neighbors": ["Hankasalmi", "Jyväskylä", "Konnevesi", "Toivakka", "Uurainen", "Äänekoski"]}
+{"name": "Lemi", "number": "416", "neighbors": null}
+{"name": "Lemland", "number": "417", "neighbors": null}
+{"name": "Lempäälä", "number": "418", "neighbors": ["Akaa", "Kangasala", "Pirkkala", "Tampere", "Valkeakoski", "Vesilahti"]}
+{"name": "Leppävirta", "number": "420", "neighbors": ["Heinävesi", "Joroinen", "Kuopio", "Pieksämäki", "Suonenjoki", "Tuusniemi", "Varkaus"]}
+{"name": "Lestijärvi", "number": "421", "neighbors": null}
+{"name": "Lieksa", "number": "422", "neighbors": ["Ilomantsi", "Joensuu", "Juuka", "Kontiolahti", "Kuhmo", "Nurmes"]}
+{"name": "Lieto", "number": "423", "neighbors": ["Aura", "Kaarina", "Marttila", "Paimio", "Pöytyä", "Turku"]}
+{"name": "Liminka", "number": "425", "neighbors": ["Kempele", "Lumijoki", "Muhos", "Oulu", "Siikajoki", "Siikalatva", "Tyrnävä", "Vaala"]}
+{"name": "Liperi", "number": "426", "neighbors": ["Heinävesi", "Joensuu", "Kontiolahti", "Polvijärvi", "Rääkkylä", "Savonlinna", "Outokumpu"]}
+{"name": "Lohja", "number": "444", "neighbors": ["Inkoo", "Karkkila", "Raasepori", "Salo", "Siuntio", "Somero", "Tammela", "Vihti"]}
+{"name": "Loimaa", "number": "430", "neighbors": ["Huittinen", "Humppila", "Koski Tl", "Marttila", "Oripää", "Punkalaidun", "Pöytyä", "Somero", "Säkylä", "Ypäjä"]}
+{"name": "Loppi", "number": "433", "neighbors": ["Hyvinkää", "Hämeenlinna", "Janakkala", "Karkkila", "Riihimäki", "Tammela", "Vihti"]}
+{"name": "Loviisa", "number": "434", "neighbors": ["Kouvola", "Lapinjärvi", "Myrskylä", "Porvoo", "Pyhtää"]}
+{"name": "Luhanka", "number": "435", "neighbors": ["Hartola", "Joutsa", "Jyväskylä", "Jämsä", "Kuhmoinen", "Sysmä"]}
+{"name": "Lumijoki", "number": "436", "neighbors": ["Hailuoto", "Liminka", "Oulu", "Siikajoki"]}
+{"name": "Lumparland", "number": "438", "neighbors": ["Föglö", "Jomala", "Lemland", "Sund", "Vårdö"]}
+{"name": "Luoto", "number": "440", "neighbors": null}
+{"name": "Luumäki", "number": "441", "neighbors": null}
+{"name": "Maalahti", "number": "475", "neighbors": ["Korsnäs", "Kurikka", "Laihia", "Mustasaari", "Närpiö", "Vaasa"]}
+{"name": "Maarianhamina", "number": "478", "neighbors": null}
+{"name": "Mäntsälä", "number": "505", "neighbors": ["Kärkölä", "Orimattila", "Pukkila", "Askola", "Pornainen", "Sipoo", "Järvenpää", "Tuusula", "Hyvinkää", "Hausjärvi"]}
+{"name": "Mänttä-Vilppula", "number": "508", "neighbors": ["Keuruu", "Juupajoki", "Jämsä", "Ruovesi", "Virrat"]}
+{"name": "Mäntyharju", "number": "507", "neighbors": null}
+{"name": "Marttila", "number": "480", "neighbors": null}
+{"name": "Masku", "number": "481", "neighbors": ["Mynämäki", "Nousiainen", "Rusko", "Raisio", "Naantali", "Taivassalo"]}
+{"name": "Merijärvi", "number": "483", "neighbors": null}
+{"name": "Naantali", "number": "529", "neighbors": ["Parainen", "Masku", "Raisio", "Taivassalo", "Turku"]}
+{"name": "Nakkila", "number": "531", "neighbors": null}
+{"name": "Närpiö", "number": "545", "neighbors": ["Kaskinen", "Korsnäs", "Kristiinankaupunki", "Kurikka", "Maalahti", "Teuva"]}
+{"name": "Nivala", "number": "535", "neighbors": ["Haapajärvi", "Haapavesi", "Sievi", "Ylivieska"]}
+{"name": "Nokia", "number": "536", "neighbors": ["Hämeenkyrö", "Pirkkala", "Sastamala", "Tampere", "Vesilahti", "Ylöjärvi"]}
+{"name": "Nousiainen", "number": "538", "neighbors": ["Aura", "Masku", "Raisio", "Mynämäki", "Pöytyä", "Rusko", "Turku"]}
+{"name": "Nurmes", "number": "541", "neighbors": ["Juuka", "Kuhmo", "Lieksa", "Rautavaara", "Sotkamo"]}
+{"name": "Nurmijärvi", "number": "543", "neighbors": ["Espoo", "Vantaa", "Tuusula", "Hyvinkää", "Vihti"]}
+{"name": "Orimattila", "number": "560", "neighbors": ["Hollola", "Iitti", "Kärkölä", "Lahti", "Lapinjärvi", "Myrskylä", "Mäntsälä", "Pukkila"]}
+{"name": "Oripää", "number": "561", "neighbors": null}
+{"name": "Orivesi", "number": "562", "neighbors": ["Juupajoki", "Jämsä", "Kangasala", "Kuhmoinen", "Ruovesi", "Tampere"]}
+{"name": "Oulainen", "number": "563", "neighbors": null}
+{"name": "Oulu", "number": "564", "neighbors": ["Hailuoto", "Ii", "Kempele", "Liminka", "Lumijoki", "Muhos", "Pudasjärvi", "Tyrnävä", "Utajärvi"]}
+{"name": "Outokumpu", "number": "309", "neighbors": ["Liperi", "Polvijärvi", "Kaavi", "Tuusniemi", "Heinävesi"]}
+{"name": "Padasjoki", "number": "576", "neighbors": ["Asikkala", "Hämeenlinna", "Kangasala", "Kuhmoinen", "Pälkäne", "Sysmä"]}
+{"name": "Paimio", "number": "577", "neighbors": ["Lieto", "Kaarina", "Marttila", "Salo", "Sauvo"]}
+{"name": "Pälkäne", "number": "635", "neighbors": null}
+{"name": "Paltamo", "number": "578", "neighbors": ["Kajaani", "Puolanka", "Ristijärvi", "Sotkamo", "Vaala"]}
+{"name": "Parainen", "number": "445", "neighbors": ["Brändö", "Sottunga", "Kökar", "Kemiönsaari", "Sauvo", "Kaarina", "Turku", "Naantali", "Kustavi"]}
+{"name": "Parikkala", "number": "580", "neighbors": null}
+{"name": "Parkano", "number": "581", "neighbors": ["Ikaalinen", "Jämijärvi", "Kankaanpää", "Karvia", "Kihniö", "Kurikka", "Ylöjärvi"]}
+{"name": "Pedersören kunta", "number": "599", "neighbors": ["Evijärvi", "Kauhava", "Kruunupyy", "Luoto", "Pietarsaari", "Uusikaarlepyy"]}
+{"name": "Pelkosenniemi", "number": "583", "neighbors": null}
+{"name": "Pello", "number": "854", "neighbors": null}
+{"name": "Perho", "number": "584", "neighbors": null}
+{"name": "Pertunmaa", "number": "588", "neighbors": null}
+{"name": "Petäjävesi", "number": "592", "neighbors": ["Jyväskylä", "Jämsä", "Keuruu", "Multia", "Uurainen"]}
+{"name": "Pieksämäki", "number": "593", "neighbors": ["Hankasalmi", "Joroinen", "Juva", "Kangasniemi", "Leppävirta", "Mikkeli", "Rautalampi", "Suonenjoki"]}
+{"name": "Pielavesi", "number": "595", "neighbors": ["Iisalmi", "Keitele", "Kiuruvesi", "Kuopio", "Pihtipudas", "Pyhäjärvi", "Tervo"]}
+{"name": "Pietarsaari", "number": "598", "neighbors": ["Luoto", "Pedersören kunta", "Uusikaarlepyy"]}
+{"name": "Pihtipudas", "number": "601", "neighbors": null}
+{"name": "Pirkkala", "number": "604", "neighbors": ["Tampere", "Nokia", "Lempäälä", "Vesilahti"]}
+{"name": "Polvijärvi", "number": "607", "neighbors": null}
+{"name": "Pomarkku", "number": "608", "neighbors": null}
+{"name": "Pori", "number": "609", "neighbors": ["Eurajoki", "Kankaanpää", "Kokemäki", "Merikarvia", "Nakkila", "Pomarkku", "Sastamala", "Siikainen", "Ulvila"]}
+{"name": "Pornainen", "number": "611", "neighbors": ["Askola", "Mäntsälä", "Porvoo", "Sipoo"]}
+{"name": "Porvoo", "number": "638", "neighbors": ["Askola", "Loviisa", "Myrskylä", "Pornainen", "Sipoo"]}
+{"name": "Posio", "number": "614", "neighbors": ["Rovaniemi", "Kemijärvi", "Ranua", "Salla", "Kuusamo", "Taivalkoski", "Pudasjärvi"]}
+{"name": "Pöytyä", "number": "636", "neighbors": null}
+{"name": "Pudasjärvi", "number": "615", "neighbors": ["Ii", "Oulu", "Posio", "Puolanka", "Ranua", "Suomussalmi", "Taivalkoski", "Utajärvi"]}
+{"name": "Pukkila", "number": "616", "neighbors": null}
+{"name": "Punkalaidun", "number": "619", "neighbors": ["Huittinen", "Humppila", "Loimaa", "Urjala", "Sastamala"]}
+{"name": "Puolanka", "number": "620", "neighbors": ["Hyrynsalmi", "Paltamo", "Pudasjärvi", "Ristijärvi", "Suomussalmi", "Utajärvi", "Vaala"]}
+{"name": "Puumala", "number": "623", "neighbors": ["Juva", "Mikkeli", "Ruokolahti", "Savitaipale", "Sulkava", "Taipalsaari"]}
+{"name": "Pyhäjärvi", "number": "626", "neighbors": null}
+{"name": "Pyhäjoki", "number": "625", "neighbors": ["Kalajoki", "Merijärvi", "Oulainen", "Raahe"]}
+{"name": "Pyhäntä", "number": "630", "neighbors": null}
+{"name": "Pyhäranta", "number": "631", "neighbors": null}
+{"name": "Pyhtää", "number": "624", "neighbors": null}
+{"name": "Raahe", "number": "678", "neighbors": ["Haapavesi", "Oulainen", "Pyhäjoki", "Siikajoki", "Siikalatva"]}
+{"name": "Rääkkylä", "number": "707", "neighbors": ["Joensuu", "Kitee", "Liperi", "Savonlinna", "Tohmajärvi"]}
+{"name": "Raasepori", "number": "710", "neighbors": ["Hanko", "Kemiönsaari", "Salo", "Inkoo", "Lohja"]}
+{"name": "Raisio", "number": "680", "neighbors": ["Masku", "Naantali", "Rusko", "Turku"]}
+{"name": "Rantasalmi", "number": "681", "neighbors": ["Joroinen", "Juva", "Savonlinna", "Sulkava", "Varkaus"]}
+{"name": "Ranua", "number": "683", "neighbors": null}
+{"name": "Rauma", "number": "684", "neighbors": ["Eura", "Eurajoki", "Laitila", "Pyhäranta"]}
+{"name": "Rautalampi", "number": "686", "neighbors": ["Hankasalmi", "Konnevesi", "Pieksämäki", "Suonenjoki", "Tervo", "Vesanto"]}
+{"name": "Rautavaara", "number": "687", "neighbors": ["Juuka", "Kuopio", "Lapinlahti", "Nurmes", "Sonkajärvi", "Sotkamo"]}
+{"name": "Rautjärvi", "number": "689", "neighbors": ["Ruokolahti", "Parikkala"]}
+{"name": "Reisjärvi", "number": "691", "neighbors": null}
+{"name": "Riihimäki", "number": "694", "neighbors": ["Janakkala", "Hausjärvi", "Hyvinkää", "Loppi"]}
+{"name": "Ristijärvi", "number": "697", "neighbors": ["Puolanka", "Hyrynsalmi", "Kuhmo", "Sotkamo", "Paltamo"]}
+{"name": "Rovaniemi", "number": "698", "neighbors": ["Kittilä", "Sodankylä", "Kolari", "Pello", "Ylitornio", "Tervola", "Ranua", "Posio", "Kemijärvi", "Pelkosenniemi"]}
+{"name": "Ruokolahti", "number": "700", "neighbors": null}
+{"name": "Ruovesi", "number": "702", "neighbors": ["Juupajoki", "Mänttä-Vilppula", "Raasepori", "Tampere", "Virrat", "Ylöjärvi"]}
+{"name": "Rusko", "number": "704", "neighbors": ["Nousiainen", "Masku", "Naantali", "Raisio", "Turku", "Pöytyä", "Aura"]}
+{"name": "Saarijärvi", "number": "729", "neighbors": null}
+{"name": "Säkylä", "number": "783", "neighbors": ["Eura", "Huittinen", "Kokemäki", "Loimaa", "Oripää", "Pöytyä"]}
+{"name": "Salla", "number": "732", "neighbors": ["Kemijärvi", "Kuusamo", "Pelkosenniemi", "Posio", "Savukoski"]}
+{"name": "Salo", "number": "734", "neighbors": ["Koski Tl", "Lohja", "Kemiönsaari", "Marttila", "Paimio", "Raasepori", "Sauvo", "Somero"]}
+{"name": "Saltvik", "number": "736", "neighbors": null}
+{"name": "Sastamala", "number": "790", "neighbors": ["Huittinen", "Hämeenkyrö", "Ikaalinen", "Kankaanpää", "Kokemäki", "Nokia", "Pori", "Punkalaidun", "Ulvila", "Urjala", "Vesilahti"]}
+{"name": "Sauvo", "number": "738", "neighbors": null}
+{"name": "Savitaipale", "number": "739", "neighbors": null}
+{"name": "Savonlinna", "number": "740", "neighbors": ["Enonkoski", "Heinävesi", "Kitee", "Liperi", "Parikkala", "Rantasalmi", "Ruokolahti", "Rääkkylä", "Sulkava", "Varkaus"]}
+{"name": "Savukoski", "number": "742", "neighbors": ["Pelkosenniemi", "Salla", "Sodankylä"]}
+{"name": "Seinäjoki", "number": "743", "neighbors": ["Kauhava", "Lapua", "Kuortane", "Alavus", "Virrat", "Kihniö", "Ilmajoki", "Kurikka", "Isokyrö"]}
+{"name": "Sievi", "number": "746", "neighbors": ["Haapajärvi", "Kalajoki", "Kannus", "Lestijärvi", "Nivala", "Reisjärvi", "Toholampi", "Ylivieska"]}
+{"name": "Siikainen", "number": "747", "neighbors": ["Honkajoki", "Isojoki", "Kankaanpää", "Merikarvia", "Pomarkku", "Pori"]}
+{"name": "Siikajoki", "number": "748", "neighbors": ["Hailuoto", "Liminka", "Lumijoki", "Raahe", "Siikalatva"]}
+{"name": "Siikalatva", "number": "791", "neighbors": ["Haapavesi", "Kajaani", "Kärsämäki", "Liminka", "Muhos", "Pyhäntä", "Raahe", "Siikajoki", "Vaala"]}
+{"name": "Siilinjärvi", "number": "749", "neighbors": ["Kuopio", "Lapinlahti"]}
+{"name": "Simo", "number": "751", "neighbors": ["Ii", "Kemi", "Keminmaa", "Ranua", "Tervola"]}
+{"name": "Sipoo", "number": "753", "neighbors": ["Helsinki", "Vantaa", "Kerava", "Tuusula", "Järvenpää", "Porvoo", "Pornainen", "Mäntsälä"]}
+{"name": "Siuntio", "number": "755", "neighbors": null}
+{"name": "Sodankylä", "number": "758", "neighbors": null}
+{"name": "Soini", "number": "759", "neighbors": ["Alajärvi", "Karstula", "Kyyjärvi", "Saarijärvi", "Ähtäri"]}
+{"name": "Somero", "number": "761", "neighbors": ["Jokioinen", "Koski Tl", "Lohja", "Loimaa", "Salo", "Tammela", "Ypäjä"]}
+{"name": "Sonkajärvi", "number": "762", "neighbors": ["Iisalmi", "Kajaani", "Lapinlahti", "Rautavaara", "Sotkamo", "Vieremä"]}
+{"name": "Sotkamo", "number": "765", "neighbors": ["Kajaani", "Kuhmo", "Nurmes", "Paltamo", "Rautavaara", "Ristijärvi", "Sonkajärvi"]}
+{"name": "Sottunga", "number": "766", "neighbors": ["Brändö", "Föglö", "Kumlinge", "Kökar", "Parainen", "Vårdö"]}
+{"name": "Sulkava", "number": "768", "neighbors": null}
+{"name": "Sund", "number": "771", "neighbors": ["Finström", "Jomala", "Lemland", "Lumparland", "Saltvik", "Vårdö"]}
+{"name": "Suomussalmi", "number": "777", "neighbors": ["Taivalkoski", "Puolanka", "Hyrynsalmi", "Kuusamo", "Pudasjärvi", "Kuhmo"]}
+{"name": "Suonenjoki", "number": "778", "neighbors": ["Kuopio", "Leppävirta", "Pieksämäki", "Rautalampi", "Tervo"]}
+{"name": "Sysmä", "number": "781", "neighbors": ["Asikkala", "Hartola", "Heinola", "Kuhmoinen", "Luhanka", "Padasjoki"]}
+{"name": "Taipalsaari", "number": "831", "neighbors": null}
+{"name": "Taivalkoski", "number": "832", "neighbors": ["Kuusamo", "Posio", "Pudasjärvi", "Suomussalmi"]}
+{"name": "Taivassalo", "number": "833", "neighbors": null}
+{"name": "Tammela", "number": "834", "neighbors": ["Forssa", "Hämeenlinna", "Jokioinen", "Karkkila", "Lohja", "Loppi", "Somero", "Urjala"]}
+{"name": "Tampere", "number": "837", "neighbors": ["Orivesi", "Kangasala", "Lempäälä", "Pirkkala", "Nokia", "Ylöjärvi", "Ruovesi"]}
+{"name": "Tervo", "number": "844", "neighbors": ["Keitele", "Kuopio", "Pielavesi", "Rautalampi", "Suonenjoki", "Vesanto"]}
+{"name": "Tervola", "number": "845", "neighbors": null}
+{"name": "Teuva", "number": "846", "neighbors": null}
+{"name": "Tohmajärvi", "number": "848", "neighbors": ["Joensuu", "Kitee", "Rääkkylä"]}
+{"name": "Toholampi", "number": "849", "neighbors": null}
+{"name": "Toivakka", "number": "850", "neighbors": null}
+{"name": "Tornio", "number": "851", "neighbors": ["Kemi", "Keminmaa", "Tervola", "Ylitornio"]}
+{"name": "Turku", "number": "853", "neighbors": ["Aura", "Kaarina", "Lieto", "Masku", "Mynämäki", "Naantali", "Nousiainen", "Parainen", "Pöytyä", "Raisio", "Rusko"]}
+{"name": "Tuusniemi", "number": "857", "neighbors": null}
+{"name": "Tuusula", "number": "858", "neighbors": ["Hyvinkää", "Mäntsälä", "Järvenpää", "Sipoo", "Kerava", "Vantaa", "Nurmijärvi"]}
+{"name": "Tyrnävä", "number": "859", "neighbors": ["Kempele", "Liminka", "Muhos", "Oulu"]}
+{"name": "Ulvila", "number": "886", "neighbors": ["Pori", "Harjavalta", "Kokemäki", "Nakkila", "Sastamala"]}
+{"name": "Urjala", "number": "887", "neighbors": null}
+{"name": "Utajärvi", "number": "889", "neighbors": ["Muhos", "Oulu", "Pudasjärvi", "Puolanka", "Vaala"]}
+{"name": "Utsjoki", "number": "890", "neighbors": ["Inari"]}
+{"name": "Uurainen", "number": "892", "neighbors": ["Jyväskylä", "Laukaa", "Multia", "Petäjävesi", "Saarijärvi", "Äänekoski"]}
+{"name": "Uusikaarlepyy", "number": "893", "neighbors": ["Kauhava", "Pedersören kunta", "Pietarsaari", "Vöyri"]}
+{"name": "Uusikaupunki", "number": "895", "neighbors": ["Kustavi", "Laitila", "Pyhäranta", "Taivassalo", "Vehmaa"]}
+{"name": "Vaala", "number": "785", "neighbors": ["Kajaani", "Liminka", "Muhos", "Paltamo", "Puolanka", "Siikalatva", "Utajärvi"]}
+{"name": "Vaasa", "number": "905", "neighbors": ["Isokyrö", "Laihia", "Maalahti", "Mustasaari", "Vöyri"]}
+{"name": "Valkeakoski", "number": "908", "neighbors": ["Akaa", "Hattula", "Hämeenlinna", "Kangasala", "Lempäälä", "Pälkäne"]}
+{"name": "Vantaa", "number": "092", "neighbors": ["Helsinki", "Espoo", "Nurmijärvi", "Tuusula", "Kerava", "Sipoo"]}
+{"name": "Vårdö", "number": "941", "neighbors": ["Föglö", "Kumlinge", "Lumparland", "Saltvik", "Sottunga", "Sund"]}
+{"name": "Varkaus", "number": "915", "neighbors": ["Heinävesi", "Joroinen", "Leppävirta", "Rantasalmi", "Savonlinna"]}
+{"name": "Vehmaa", "number": "918", "neighbors": null}
+{"name": "Vesanto", "number": "921", "neighbors": ["Keitele", "Konnevesi", "Rautalampi", "Tervo", "Viitasaari", "Äänekoski"]}
+{"name": "Vesilahti", "number": "922", "neighbors": ["Akaa", "Lempäälä", "Nokia", "Pirkkala", "Sastamala", "Urjala"]}
+{"name": "Veteli", "number": "924", "neighbors": null}
+{"name": "Vieremä", "number": "925", "neighbors": null}
+{"name": "Vihti", "number": "927", "neighbors": ["Karkkila", "Loppi", "Hyvinkää", "Nurmijärvi", "Espoo", "Kirkkonummi", "Siuntio", "Lohja"]}
+{"name": "Viitasaari", "number": "931", "neighbors": null}
+{"name": "Vimpeli", "number": "934", "neighbors": ["Alajärvi", "Lappajärvi", "Perho", "Veteli"]}
+{"name": "Virolahti", "number": "935", "neighbors": null}
+{"name": "Virrat", "number": "936", "neighbors": ["Alavus", "Keuruu", "Kihniö", "Mänttä-Vilppula", "Ruovesi", "Seinäjoki", "Ylöjärvi", "Ähtäri"]}
+{"name": "Vöyri", "number": "946", "neighbors": ["Isokyrö", "Kauhava", "Mustasaari", "Uusikaarlepyy", "Vaasa"]}
+{"name": "Ylitornio", "number": "976", "neighbors": ["Pello", "Rovaniemi", "Tervola", "Tornio"]}
+{"name": "Ylivieska", "number": "977", "neighbors": ["Alavieska", "Haapavesi", "Kalajoki", "Nivala", "Oulainen", "Merijärvi", "Sievi"]}
+{"name": "Ylöjärvi", "number": "980", "neighbors": ["Hämeenkyrö", "Ikaalinen", "Kihniö", "Nokia", "Parkano", "Ruovesi", "Tampere", "Virrat"]}
+{"name": "Ypäjä", "number": "981", "neighbors": ["Jokioinen", "Somero", "Loimaa", "Humppila", "Koski Tl"]}
